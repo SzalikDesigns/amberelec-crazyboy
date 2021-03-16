@@ -15,7 +15,7 @@ Edits for 351ELEC by Szalik :)
 Extra edits: **krishenriksen**
 Coffee for him: https://www.paypal.me/krishenriksendk
 
-Art extra Credits:fagnerpc, dm2912
+Art extra Credits FOR ART: fagnerpc, dm2912
 
 
 ---
