@@ -8,7 +8,7 @@
 			<path>./system.svg</path>
 		</image>
 		<image name="background_pattern" extra="true">
-			<path>./background.png</path>
+			<path>./gameandwatch.jpg</path>
 			<origin>0.5 0.5</origin>
 			<pos>0.5 0.5</pos>
 			<size>1 1</size>
