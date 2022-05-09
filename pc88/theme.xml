@@ -5,11 +5,11 @@
 
     <view name="system, basic, detailed, video">
 		<image name="logo">
-			<path>./megaduck.svg</path>
-			<color>111111</color>
+			<path>./system.svg</path>
+			<color>FF0000</color>
 		</image>
 		<image name="background_pattern" extra="true">
-			<path>./megaduck.jpg</path>
+			<path>./pc.png</path>
 			<origin>0.5 0.5</origin>
 			<pos>0.5 0.5</pos>
 			<size>1 1</size>
@@ -17,7 +17,7 @@
 			<tile>false</tile>
 		</image>
 		<textlist name="gamelist">
-			<selectorColor>143952</selectorColor>
+			<selectorColor>571C16</selectorColor>
 			<!-- RED = 571C16, ORANGE = 562F0D, GREEN = 114D2A, 
 			TURQUOISE = 0A473B, BLUE = 143952, PURPLE = 3A2144 -->
 		</textlist>

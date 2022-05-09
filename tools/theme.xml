@@ -5,7 +5,7 @@
 
     <view name="system, basic, detailed, video">
 		<image name="logo">
-			<path>./system.png</path>
+			<path>./system.svg</path>
 		</image>
 	        <image name="background_pattern" extra="true">
 			<path>./background.jpg</path>
